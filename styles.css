@@ -1,0 +1,24 @@
+﻿/***************TAG SELECTORS***************/
+body {
+    background-color: #BFEAF5;
+}
+
+hr {
+    border-style: solid none none;
+    border-top: 1px solid black;
+}
+
+h1 {
+    color: #6C00FF;
+}
+
+h3 {
+    color: #3C79F5;
+}
+
+/***************CLASS SELECTORS***************/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
